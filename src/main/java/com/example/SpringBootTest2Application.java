@@ -13,7 +13,7 @@ public class SpringBootTest2Application {
 	
 	@RequestMapping("/")
 	String home() {
-		return "Hello world";
+		return "Hello world 2";
 	}
 
 	public static void main(String[] args) {
